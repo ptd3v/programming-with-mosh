@@ -1,8 +1,6 @@
-#Variables - Used to store temporary data in a computers memory
-age = 30
+age = 30 #Variables - Used to store temporary data in a computers memory
 age = 20 #Variable are run from top to bottom
-#Underscores help readability
-first_name = "John"
+first_name = "John" #Underscores help readability
 last_name = "Smith"
 new_patient = True #Boolean values can be either true or false, Case sensistive
 price = 19.95
